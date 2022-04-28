@@ -11,7 +11,8 @@ There are many digital tools available to help someone with a disability to inte
 
 ### What is the need to focus on Digital Accessibility?
 
-
+As the use of digital devices and the internet has increased, the need of improving digital accessibility features has skyrocketed day by day. Every person deserves equal accessibility privilege regardless of their impairments. It's everyone's right to access digital devices and content as technology has become an integral part of our regular life. Thus digital accessibility is an important topic to discuss. 
+Improving accessibility features has some perks too. It helps to increase the audience and improves the user experience for everyone. Adding digital accessibility features can help to strengthen a brand's image and reputation. So before asking why do we need to focus on digital accessibility, ask why not?
 
 ### Accessible features in Windows 11
 
