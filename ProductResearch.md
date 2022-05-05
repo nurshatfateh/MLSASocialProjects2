@@ -1,8 +1,9 @@
 ## UNBOX WINDOWS 11 - THE MOST ACCESSIBLE WINDOWS
 
+### Prologue
 
-
-
+Accessibility (ac·ces·si·bil·i·ty) defined as "the quality of being easy to obtain or use" or "the quality of being easily understood or appreciated". Acessibility also includes the way we can use something to reach other thing.
+Accessibility history goes way back then. In 1957, there was an award for President Eisenhower, in recognition of his work to promote accessibility in his community. Accessibility movement (for wheelchair and stuff) has common roots with the civil rights movement and the Civil Rights Act of 1964 [(link)](https://www.wbdg.org/design-objectives/accessible/history-accessible-facility-design). Today, as technology grows rapidly, it should be followed by making it more accessible. The accessibility is not only about something we can touch, but also the digital one.
 
 ### What is Digital Accessibility?
 
@@ -11,8 +12,12 @@ There are many digital tools available to help someone with a disability to inte
 
 ### What is the need to focus on Digital Accessibility?
 
-As the use of digital devices and the internet has increased, the need of improving digital accessibility features has skyrocketed day by day. Every person deserves equal accessibility privilege regardless of their impairments. It's everyone's right to access digital devices and content as technology has become an integral part of our regular life. Thus digital accessibility is an important topic to discuss. 
+As the use of digital devices and the internet has increased, the need of improving digital accessibility features has skyrocketed day by day. Every person deserves equal accessibility privilege regardless of their impairments. It's everyone's right to access digital devices and content as technology has become an integral part of our regular life. Thus digital accessibility is an important topic to discuss.
 Improving accessibility features has some perks too. It helps to increase the audience and improves the user experience for everyone. Adding digital accessibility features can help to strengthen a brand's image and reputation. So before asking why do we need to focus on digital accessibility, ask why not?
+
+### Microsoft's role in this field
+
+Microsoft's role and journey in accessibility, has gone a long way. In 1992, Microsoft established a full-time position focused on accessibility. For several years, Greg Lowney directed the accessibility effort. Access to Windows for computer users who are blind or visually impaired was a long time in coming. The first screen reader for a Windows operating system was not released until 1992 when Syntha-Voice Computers released SlimWare Window Bridge for Windows 3.1. It was developed without much help from Microsoft. Not only Windows, Microsoft has developed many applications with ultimate support for accessibility. One example, A Lecturer from ANU College Of Law, used Office and Seeing AI to facilitate the intreaction and collaboration between lectuter and students. Another example is a blind father uses accessible technologies like Office Lens and OneNote to quickly take control of a medical emergency involving his young daughter. Now in 2022, Microsoft is still working with the art of accessibility, continuing Windows accessibility in the Windows 11.
 
 ### Accessible features in Windows 11
 
