@@ -8,4 +8,4 @@ Curious on how to exploit these features in your everyday life?ğŸ¤” Fret not!ğŸ¤
 
 - [@sheki018](https://github.com/sheki018) (Team Lead)
 - [@nurshatfateh](https://github.com/nurshatfateh)
-- [RayWP](https://github.com/RayWP)
+- [@RayWP](https://github.com/RayWP)
