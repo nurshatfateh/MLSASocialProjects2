@@ -4,7 +4,11 @@ This file presents an outline to our series of blogs on digital accessibility.
 
 ### 1. Digital Accessibility
 
+Digital accessibility is all about ensuring that all users can access the same information, regardless of their impairments. Creating an inclusive culture is one of the most important factors in our society. It is same for the digital media too. In this blog, we will be discussing what is digital accessibility and why it is important to focus on this aspect. We will discuss ADA regulations regarding digital accessibility. We will also be discussing how digital accessibility is important to create an inclusive culture and so on.
+
 ### 2. Current challenges and their possible solutions
+
+The main challenge regarding digital accessibility is the lack of awareness and education regarding this aspect. Most people never heard the term digital accessibility. So our main goal is to educate people about digital accessibility and show them how to implement features to fulfill the requirements of digital accessibility. Also for many people, implementing accessibility features is just an extra hassle. We must change this mentality. We have to educate people so that they can understand that digital accessibility is not just an optional thing. Instead, it is one of the most fundamental aspects of digital media. Sometimes it is hard to implement features that ensure digital accessibility. We will discuss these challenges and their possible solutions too.
 
 ### 3. Role of Microsoft in Digital Accessibility 
 
