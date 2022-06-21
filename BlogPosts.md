@@ -1,5 +1,5 @@
 # Digital Accessibility 
-<img src="1.jpg" width="200"/>
+<img src="1.jpg" width="400"/>
 
 Digital Accessibility is all about making sure that all users can get full access to digital content regardless of their impairments. The current era is called the era of digital media. More and more people are relying on digital services for work, entertainment etc. Literally everything we do in our life is somehow related to digital services these days. Today, a lot of digital interfaces are created with a focus heavily on the visual impact they are having but digital accessibility is mostly overlooked. This ignorance leads to a huge portion of the people getting deprived of accessing digital contents. It means people with disabilities can't do even basic things such as attending online classes, socializing with friends online, using government services and so on. It is totally unexpected as so many people rely on digital services these days for even basic day to day activities. Thus, digital accessibility is crucial for creating an inclusive world for everyone. 
 
