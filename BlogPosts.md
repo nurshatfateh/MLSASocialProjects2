@@ -81,11 +81,13 @@ The most important thing to realize is digital accessibility is not an optional 
 
 <br><br><br><br><br><br><br>
 # 2. Current Challenges of Digital Accessibility & Possible Solutions 
-
+<br>
+<img src="11.jpg" width="400"/><br>
 The capabilities of digital devices and services are increasing rapidly day by day. But sadly, it is not the same when it comes to digital accessibility. There are many challenges of ensuring digital accessibility. In this article, we will be discussing few of these challenges and possible solutions to overcome these challenges. <br><br> 
 
 ## Challenges of Digital Accessibility 
-
+<br>
+<img src="22.jpg" width="400"/><br>
 ### Lack of awareness 
 
 The major issue of ensuring digital accessibility is lack of awareness. Most digital service providers and developers are not concerned about digital accessibility. Most of them don’t even know the term ‘Digital Accessibility’ which is the most alarming fact.   
@@ -113,7 +115,8 @@ Lack of skills and resources are also major barriers. Most developers are not sk
 Though there are guidelines like ‘Web Content Accessibility Guidelines’ (WCAG), there is clearly a lack of governance when it comes to ensuring digital accessibility. Most of the digital services lack accessibility features and still they are not held accountable for this. 
 <br><br>
 ## Possible Solutions 
-
+<br>
+<img src="44.jpg" width="400"/><br>
 
 ### Raising awareness 
 
@@ -136,7 +139,8 @@ More regulations and guidelines should be provided for ensuring digital accessib
 Only abiding by the regulations is not good enough. Digital accessibility features must be tested on a pool of disabled people to get real life feedbacks. Only then can real accessibility be ensured. 
 <br><br>
  
-
+<br>
+<img src="55.jpg" width="400"/><br>
  
 
 Achieving inclusion worldwide is a big and complex challenge. Same goes for Digital Inclusion too. But proper guidelines, awareness and skill development surely help to overcome all the obstacles of ensuring digital accessibility.   
