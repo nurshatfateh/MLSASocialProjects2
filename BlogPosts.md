@@ -88,6 +88,7 @@ The capabilities of digital devices and services are increasing rapidly day by d
 ## Challenges of Digital Accessibility 
 <br>
 <img src="22.png" width="400"/><br>
+
 ### Lack of awareness 
 
 The major issue of ensuring digital accessibility is lack of awareness. Most digital service providers and developers are not concerned about digital accessibility. Most of them don’t even know the term ‘Digital Accessibility’ which is the most alarming fact.   
@@ -98,9 +99,7 @@ Accessibility is often seen as a niche requirement. Many developers know the gui
 
  
 
-### Lack of willpower & motivation  
 
-Accessibility is often seen as a niche requirement. Many developers know the guidelines of digital accessibility but still lack the motivation and willpower to go one extra mile to ensure digital accessibility. 
 
 ### Compliance Culture  
 
