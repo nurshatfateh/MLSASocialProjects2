@@ -142,7 +142,7 @@ Only abiding by the regulations is not good enough. Digital accessibility featur
 
 Achieving inclusion worldwide is a big and complex challenge. Same goes for Digital Inclusion too. But proper guidelines, awareness and skill development surely help to overcome all the obstacles of ensuring digital accessibility.   
 
- 
+ <br><br><br><br><br><br><br>
  
  # 5. Unboxing Windows 11
  <br>
