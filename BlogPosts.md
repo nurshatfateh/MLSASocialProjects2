@@ -332,6 +332,13 @@ To define how the captions appear in Windows and some Windows apps, you can sele
 1. Select **Start** > **Settings** > **Accessibility** > **Captions**.
 2. In **Caption style**, expand the menu, select one of the predefined options, and see how it appears in the preview.
 3. To customize the selected predefined option, select **Edit** and then modify the option details to your liking.
+<br>
+
+
+
+Uploading captions.mp4…
+
+
 <br><br>
 
 **Source:** [Change caption settings](https://support.microsoft.com/en-us/windows/change-caption-settings-135c465b-8cfd-3bac-9baf-4af74bc0069a)
@@ -346,7 +353,14 @@ Windows 11 can help you hear more from your computer if you have a partial heari
 #### Hear all sounds in one channel
 <br>
 
-Windows lets you convert stereo sound into a single channel so you can hear everything, even if you're using just one headphone. Select the **Start**  button, then select **Settings**  > **Accessibility** >** Audio**, and then switch on the **Mono audio** toggle.
+Windows lets you convert stereo sound into a single channel so you can hear everything, even if you're using just one headphone. Select the **Start**  button, then select **Settings**  > **Accessibility** >** Audio**, and then switch on the **Mono audio** toggle.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175658693-b751d07a-3ce9-407c-bad4-35c3f546baa7.mp4
+
+
+
 <br><br>
 
 #### Display audio alerts visually
@@ -354,7 +368,14 @@ Windows lets you convert stereo sound into a single channel so you can hear ever
 
 If you have trouble hearing audio alerts, you can have your PC display them visually. Select the **Start** button, then select **Settings**  > **Accessibility** > **Audio**.
 <br>
-Under Flash my screen during audio notifications, choose how you want audio alerts displayed. You can choose to have the title bar of the active window, the active window, or the entire screen flash when a notification arrives, instead of relying on sound alone.
+Under Flash my screen during audio notifications, choose how you want audio alerts displayed. You can choose to have the title bar of the active window, the active window, or the entire screen flash when a notification arrives, instead of relying on sound alone.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175658841-48a79631-a775-4aa9-8b8c-7bc7002fdc95.mp4
+
+
+
 <br><br>
 
 #### Make notifications stick around longer
@@ -363,7 +384,14 @@ Under Flash my screen during audio notifications, choose how you want audio aler
 By default, Windows notifications disappear five seconds after they appear. If you want more time to read them, you can increase how long they're displayed.
 <br>
 
-Select the **Start** button, then select **Settings**  > **Accessibility** > **Visual effects**. Then, under **Dismiss notifications after this amount of time**, choose the amount of time you want.
+Select the **Start** button, then select **Settings**  > **Accessibility** > **Visual effects**. Then, under **Dismiss notifications after this amount of time**, choose the amount of time you want.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175658905-476ba00f-fc43-43cd-9740-7493de6abddf.mp4
+
+
+
 <br><br>	
 	
 **Source:** [Make Windows easier to hear](https://support.microsoft.com/en-us/windows/make-windows-easier-to-hear-9c18cfdc-63be-2d47-0f4f-5b00facfd2e1)
