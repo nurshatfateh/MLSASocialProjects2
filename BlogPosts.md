@@ -83,7 +83,7 @@ The most important thing to realize is digital accessibility is not an optional 
 # 2. Current Challenges of Digital Accessibility & Possible Solutions 
 <br>
 <img src="11.jpg" width="400"/><br>
-The capabilities of digital devices and services are increasing rapidly day by day. But sadly, it is not the same when it comes to digital accessibility. There are many challenges of ensuring digital accessibility. In this article, we will be discussing few of these challenges and possible solutions to overcome these challenges. <br><br> 
+The capabilities of digital devices and services are increasing rapidly day by day. But sadly, it is not the same when it comes to digital accessibility. There are many challenges of ensuring digital accessibility. In this article, we will be discussing few of these challenges and possible solutions to overcome these challenges. <br><br><br> 
 
 ## Challenges of Digital Accessibility 
 <br>
@@ -97,10 +97,6 @@ The major issue of ensuring digital accessibility is lack of awareness. Most dig
 
 Accessibility is often seen as a niche requirement. Many developers know the guidelines of digital accessibility but still lack the motivation and willpower to go one extra mile to ensure digital accessibility. 
 
- 
-
-
-
 ### Compliance Culture  
 
 Many developers are only concerned about fulfilling minimum requirements to get their service online. They are just happy to comply with the minimum requirements instead of truly implementing and testing digital accessibility features. 
@@ -112,7 +108,9 @@ Lack of skills and resources are also major barriers. Most developers are not sk
 ### Lack of governance  
 
 Though there are guidelines like ‘Web Content Accessibility Guidelines’ (WCAG), there is clearly a lack of governance when it comes to ensuring digital accessibility. Most of the digital services lack accessibility features and still they are not held accountable for this. 
-<br><br>
+<br><br><br>
+
+
 ## Possible Solutions 
 <br>
 <img src="44.jpg" width="400"/><br>
@@ -145,6 +143,52 @@ Only abiding by the regulations is not good enough. Digital accessibility featur
 Achieving inclusion worldwide is a big and complex challenge. Same goes for Digital Inclusion too. But proper guidelines, awareness and skill development surely help to overcome all the obstacles of ensuring digital accessibility.   
 
  
+ 
+ # 5. Unboxing Windows 11
+ <br>
+ 
+In October 2021, Microsoft launched Windows 11, the most recent major release of its Windows NT operating system. It's a free upgrade from Windows 10 (2015), and it's accessible for any Windows 10 device that meets the new Windows 11 system requirements. Windows 11 was redesigned for productivity, creativity and ease of use.
+
+Windows 11 includes a redesigned Start menu, the replacement of its "live tiles" with a separate "Widgets" panel on the taskbar, the ability to create tiled sets of windows that can be minimised and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Like its predecessor, Windows 10, Internet Explorer (IE) has been replaced as the default web browser by the Chromium-based Microsoft Edge, and Microsoft Teams has been incorporated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via Microsoft Store, and to support Android apps on Windows 11.
+<br><br><br>
+
+
+## Windows team's ambition: Beyond possible, efficient, and yes, delightful 
+<br>
+
+In the Windows team, they aspire to create efficient, fun and delightful experiences for people with disabilities and without. They root their ambition in the principles of inclusive design, which celebrates and draws inspiration from people with different abilities, needs and preferences.
+<br><br><br>
+
+
+## Windows 11 is the most inclusively designed version of Windows yet
+<br>
+
+Windows 11 was created with persons with disabilities in mind, supporting productivity, creativity, and simplicity of use. Windows adapts to you with a rich range of built-in and third-party accessibility capabilities. Assistive technologies such as Narrator, Magnifier, Closed Captions, and Windows Speech Recognition are included in Windows 11 to help users with a variety of disabilities. Assistive solutions created by partners, such as popular screen readers, magnification tools, CART services, speech commands, and other experiences, are also supported in Windows 11. Beyond designing for accessibility Microsoft employed Trusted Tester (Section 508 Trusted Tester Conformance Test Process Version 5 | Homeland Security (dhs.gov)) conformance tests, usability tests and other processes to help ensure Windows 11 is accessible at availability. 
+
+With Windows 10, assistive technologies were made to work with secure applications like Word in Windows Defender Application Guard(WDAG). With Windows 11, it is now possible for both Microsoft and partner assistive technologies to work with applications like Outlook hosted in cloud, in Azure Virtual Desktop (AVD)[Create Your Azure Free Account Today | Microsoft Azure]. Using Narrator, for example, Office may be accessed as a Remote Application Integrated Locally (RAIL) with Windows 11. While this may appear to most people to be a lot of jargon, it has a big impact. When they require it, blind people will be able to use Azure-hosted applications such as Office.
+
+On devices that meet the app system requirements, Windows 11 will also enable Linux GUI apps like gedit via the Windows Subsystem for Linux (WSL). People who are blind, for example, can use WSL and Windows with supported screen readers. In certain circumstances, the integration of assistive technology is smooth. Color Filters, for example, "just work." Importantly, the WSL team prioritised accessibility from the start.
+<br><br><br>
+
+
+## Windows 11 for all
+<br>
+
+Not only is it free to get, it includes many improvements.
+
+Do you have sight problems? Fret not! New sound schemes are included to make work easier. Windows 11 contains various sounds for more accessible Light and Dark Themes including a delightful start-up. People (like me!) who work for extended periods of time and light sensitive have the option to switch between various beautiful color themes, including new Dark themes and reimagined High Contrast Themes. The new Contrast Themes include aesthetically pleasing, customizable color combinations that make apps and content easier to see. It seems Aurora has shifted its location to my system!
+Deaf and hard of hearing, language learners, and people in noisy or in quiet environments can enjoy redesigned Closed Caption themes that are easier to read and customize.
+Additionally, a variety of users can take advantage of Windows Voice Typing, which recognizes voice, transcribes it, and automatically punctuates text using cutting-edge artificial intelligence. Voice typing is beneficial for those who have severe rheumatoid arthritis, repetitive stress injuries, cerebral palsy, and other mobility-related problems, as well as language learners, those with learning differences, including those who have significant spelling difficulties.
+"People with disabilities do not need to be fixed: they need to be accepted for who they are." 
+Says Jordan Christian, Apraxia & Mental Health Advocate. Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
+<br><br><br>
+
+
+## So many features, where can I find them all?
+<br>
+
+Hide all these awesome features under a bushel? NO NO NO!!! Microsoft has considered feedback from all of its users about its previous "Ease of Access" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to Accessibility and introduced a new accessibility “human” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
+<br><br><br><br><br><br><br>
 
  
 
