@@ -230,10 +230,16 @@ You can also create your own customized theme by following these steps:
 	• **Button Text:** text on any buttons that contain text.<br>
 	• **Background:** the background of nearly all text you see in Windows or on a web page, for example.<br>
 2. Select a new color by clicking on the color picker palette, adjust the selected color’s brightness using the slider under the palette, and select **Done**.<br>
-3. To save any color changes you have made to the theme, select **Apply**.<br><br>
+3. To save any color changes you have made to the theme, select **Apply**.<br>
 
-	**Source:** [Change color contrast in Windows](https://support.microsoft.com/en-us/windows/change-color-contrast-in-windows-fedc744c-90ac-69df-aed5-c8a90125e696#PickTab=Windows_11)
-	<br>
+
+
+https://user-images.githubusercontent.com/64459672/175655295-9bd65c29-11aa-48d4-b626-93cd4395552e.mp4
+
+
+<br><br>
+**Source:** [Change color contrast in Windows](https://support.microsoft.com/en-us/windows/change-color-contrast-in-windows-fedc744c-90ac-69df-aed5-c8a90125e696#PickTab=Windows_11)
+<br>
 
 ### Zoom in on what’s important
 <br>
@@ -243,11 +249,28 @@ Here are some simple options that we can use:
 <br><br>
 
 
-• To **_adjust the size_** of text, apps, and other items, select the **Start** button, then select **Settings** > **Accessibility** > **Text size**. Use the slider next to Text size to make just the text on your screen larger. To scale up everything on your screen, select the Start button, then select **Settings** > **System** > **Display**, and change the **Scale** drop-down menu under **Scale & Layout** to a larger percentage.<br><br>
+• To **_adjust the size_** of text, apps, and other items, select the **Start** button, then select **Settings** > **Accessibility** > **Text size**. Use the slider next to Text size to make just the text on your screen larger. To scale up everything on your screen, select the Start button, then select **Settings** > **System** > **Display**, and change the **Scale** drop-down menu under **Scale & Layout** to a larger percentage.<br>
 
-• Make your mouse more visible by changing the color and size of the **_mouse pointer_**. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and choose the options that work best for you. By adding pointer trails you can see where the mouse is moving on the screen. Select the **Start** button, then select **Settings** > **Bluetooth & devices** > **Mouse** > **Additional mouse settings**. In the **Mouse Properties** window, select the **Pointer Options** tab, and then **Display pointer trails**. Windows can also show visual feedback when you touch the screen. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and then set **Touch indicator** to **On**.<br><br>
 
-• **_Magnifier_** enlarges part or all of your screen so you can see words and images better. To open Magnifier quickly, press the **Windows logo key + Plus sign (+)**. When Magnifier is open, use **Windows logo key + Plus sign (+)** or **Windows logo key + Minus sign (-)** to zoom in or out. To close Magnifier, press **Windows logo key + Esc**.<br><br>
+https://user-images.githubusercontent.com/64459672/175656125-8a98282c-b47b-4876-b6b2-1d7c01b6c8d2.mp4
+
+
+
+<br><br>
+• Make your mouse more visible by changing the color and size of the **_mouse pointer_**. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and choose the options that work best for you. By adding pointer trails you can see where the mouse is moving on the screen. Select the **Start** button, then select **Settings** > **Bluetooth & devices** > **Mouse** > **Additional mouse settings**. In the **Mouse Properties** window, select the **Pointer Options** tab, and then **Display pointer trails**. Windows can also show visual feedback when you touch the screen. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and then set **Touch indicator** to **On**.<br>
+
+
+https://user-images.githubusercontent.com/64459672/175656159-f0f64c5d-0af5-41bc-b364-2e20c521abb8.mp4
+
+<br><br>
+
+• **_Magnifier_** enlarges part or all of your screen so you can see words and images better. To open Magnifier quickly, press the **Windows logo key + Plus sign (+)**. When Magnifier is open, use **Windows logo key + Plus sign (+)** or **Windows logo key + Minus sign (-)** to zoom in or out. To close Magnifier, press **Windows logo key + Esc**.<br>
+
+
+https://user-images.githubusercontent.com/64459672/175656361-2199a5d8-4dab-4b41-888a-c20a9fd7e146.mp4
+
+
+<br><br>
  
 **Soure:** [Make Windows easier to see](https://support.microsoft.com/en-us/windows/make-windows-easier-to-see-c97c2b0d-cadb-93f0-5fd1-59ccfe19345d#PickTab=Windows_11)
 <br>
@@ -265,7 +288,13 @@ To use a color filter:
 3. Turn the **Color filters**  switch on.<br>
 4. Select a color filter from the list. Try each filter to see which one suits you best.<br><br>
 
-To turn on and turn off your color filters quickly, select the **Start** button, then select **Settings** > **Accessibility** > **Color filters**, and set **Keyboard shortcut for color filters** to **On**. Then press the **Windows logo key + Ctrl + C** to turn them on and off.
+To turn on and turn off your color filters quickly, select the **Start** button, then select **Settings** > **Accessibility** > **Color filters**, and set **Keyboard shortcut for color filters** to **On**. Then press the **Windows logo key + Ctrl + C** to turn them on and off.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175656968-6e217f20-57a0-448a-b8d6-9b061fa7a946.mp4
+
+
 <br><br>
 
 **Source:** [Use color filters in Windows](https://support.microsoft.com/en-us/windows/use-color-filters-in-windows-43893e44-b8b3-2e27-1a29-b0c15ef0e5ce#PickTab=Windows_11&WindowsVersion=Windows_11)
@@ -276,7 +305,14 @@ To turn on and turn off your color filters quickly, select the **Start** button,
 
 You can simply interact with everything on your screen with your keyboard or preferred Braille device thanks to Narrator's streamlined navigation and voice descriptions. With no need for a screen, lay back and catch up on the news or start working on your email.
 <br><br>
-To start or stop Narrator, press the **Windows logo key + Ctrl + Enter**.
+To start or stop Narrator, press the **Windows logo key + Ctrl + Enter**.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175657280-7c6d7291-b3cf-41ae-8638-52ba76a46e76.mp4
+
+
+
 <br><br>
 For advanced options refer [Complete guide to Narrator](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1#WindowsVersion=Windows_11&ID0EBD=Windows_11)
 <br><br><br>
