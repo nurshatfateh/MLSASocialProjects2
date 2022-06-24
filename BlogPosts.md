@@ -335,8 +335,7 @@ To define how the captions appear in Windows and some Windows apps, you can sele
 <br>
 
 
-
-Uploading captions.mp4…
+https://user-images.githubusercontent.com/64459672/175659510-d589fd55-7882-43c8-973f-fef797aefe85.mp4
 
 
 <br><br>
@@ -406,7 +405,14 @@ If you have physical limitations that make it difficult for you to use a keyboar
 ### Control Windows and apps with your eyes
 <br>
 
-With a range of eye tracking-enabled cameras and an intuitive launch pad that gives your eyes the power to control anything on the screen, Eye Operate makes it simple and effective to control Windows and apps (eye tracking hardware sold separately).<br><br>
+With a range of eye tracking-enabled cameras and an intuitive launch pad that gives your eyes the power to control anything on the screen, Eye Operate makes it simple and effective to control Windows and apps (eye tracking hardware sold separately).
+<br>
+
+
+https://user-images.githubusercontent.com/64459672/175659476-74c6e78b-db9d-41a6-9142-98938747b8a6.mp4
+
+
+<br><br>
 
 To set up your **eye tracking hardware** refer [Get started with eye control in Windows](https://support.microsoft.com/en-us/windows/get-started-with-eye-control-in-windows-1a170a20-1083-2452-8f42-17a7d4fe89a9#ID0EBD=Windows_11)
 <br>
@@ -420,7 +426,13 @@ Windows voice typing will translate your words to text whether you're writing a 
 	• Press **Windows logo key + H** on a hardware keyboard<br>
 	• Press the **microphone key** next to the Spacebar on the touch keyboard<br>
 	• Say a voice typing command like "Stop listening"<br>
-	• Press the microphone button on the voice typing menu<br><br>
+	• Press the microphone button on the voice typing menu<br>
+	
+
+https://user-images.githubusercontent.com/64459672/175659915-6c2b5443-01ff-4390-8b5e-c105cf015bda.mp4
+
+
+<br><br>
  
 For more advanced options check [Use voice typing to talk instead of type on your PC](https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f#PickTab=Windows_11&WindowsVersion=Windows_11)
 	<br><br><br>
@@ -432,11 +444,19 @@ With tools that improve focus, attention, reading comprehension, and more, Windo
 
 ### Improve reading comprehension
 <br>
+
 By eliminating visual clutter, changing text spacing, or zooming in on a few lines of text at a time, Immersive Reader in Microsoft Edge can help you read more fluently, comprehend what you are reading, and stay focused.<br>
 Entering Reader Mode in Immersive Reader will simplify the page you're on by hiding distracting pop-ups and buttons, leaving you with just the important parts: textual and visual content. Once you enter Reader Mode, start using tools like **Read Aloud**, **Text preferences**, **Grammar tools** and **Reading preferences**.<br><br>
  
 To enter Reader Mode, use Microsoft Edge to visit a website you want to read. Select **Enter Immersive Reader** in the address bar or use the keyboard shortcut F9.<br>
-To exit Immersive reader, select Exit Immersive Reader in the address bar or use the keyboard shortcut **F9**. 
+To exit Immersive reader, select Exit Immersive Reader in the address bar or use the keyboard shortcut **F9**.<br>
+
+
+
+https://user-images.githubusercontent.com/64459672/175660353-7a117e4a-efde-47b2-b394-700dd64d1343.mp4
+
+
+
 <br><br>
 	
 For more information, visit [Use Immersive Reader in Microsoft Edge](https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1)
@@ -458,7 +478,14 @@ Minimize visual distractions by turning off animations, background images, and m
 	• To automatically hide the scrollbars in Windows, turn off the **Always show scrollbars** switch.<br>
 	• To make some window backgrounds more opaque, turn off the **Transparency effects** switch.<br>
 	• If you don't want Windows to show animations, turn off the **Animation effects** switch.<br>
-	• To define how long notifications are shown, expand the **Dismiss notifications after this amount of time** menu and select the option you want.<br><br>
+	• To define how long notifications are shown, expand the **Dismiss notifications after this amount of time** menu and select the option you want.
+<br>
+
+
+https://user-images.githubusercontent.com/64459672/175660625-d9d441e8-3753-4e43-b275-e2ea75d1bd05.mp4
+
+	
+<br><br>
  
 #### Clean up taskbar clutter
 <br>
@@ -467,7 +494,12 @@ Choose which icons appear on the taskbar and reduce the number of items in view.
 
 1. Select **Start**  > **Settings**  > **Personalization** > **Taskbar**.<br>
 2. Select **Taskbar items** and **Taskbar corner icons** to expand those sections and turn off the switches for the items you don't want to see on the taskbar.<br>
-3. To select which icons can appear in the taskbar corner, select **Taskbar corner overflow**. Turn on the switches for the icons that you want to see in the taskbar corner. The icons with the switches turned off won't show directly on the taskbar—they'll only appear in the taskbar corner overflow menu.
+3. To select which icons can appear in the taskbar corner, select **Taskbar corner overflow**. Turn on the switches for the icons that you want to see in the taskbar corner. The icons with the switches turned off won't show directly on the taskbar—they'll only appear in the taskbar corner overflow menu.<br>
+
+
+Uploading taskbar.mp4…
+
+
 <br><br>
 
 #### Simplify the Start menu
@@ -481,7 +513,12 @@ You can select what to show in the Start menu—keeping distractions at a minimu
 	• To show or hide recently added apps, toggle the **Show recently added apps** switch on or off.<br>
 	• To show or hide the apps you use the most, toggle the **Show most used apps** switch on or off.<br>
 	• To show or hide your recently opened items, toggle the **Show recently opened items in Start**, **Jump Lists**, and **File Explorer** switch on or off.<br>
-	• To select which folders are shown or hidden in the Start menu next to the power button, select **Folders**, and turn on the switches for the folders you want to see. Turn the switches off for the folders you want to hide.
+	• To select which folders are shown or hidden in the Start menu next to the power button, select **Folders**, and turn on the switches for the folders you want to see. Turn the switches off for the folders you want to hide.<br>
+	
+
+Uploading start.mp4…
+
+	
  <br><br>
 
 #### Quiet down those notifications
@@ -495,7 +532,13 @@ You can select what to show in the Start menu—keeping distractions at a minimu
 
 1. Select **Start**  > **Settings**  > **System** > **Notifications**, then adjust the settings.<br>
 2. To see and hear fewer notifications, turn on **Do not disturb**.<br>
-3. If you want to choose notifications from certain apps, select **Set priority notifications**. Modify these options to get the notifications you want to see when do not disturb is turned on.<br><br>
+3. If you want to choose notifications from certain apps, select **Set priority notifications**. Modify these options to get the notifications you want to see when do not disturb is turned on.<br>
+
+
+Uploading noti.mp4…
+
+ 
+<br><br>
 _Tip: To quickly switch Do not disturb on, go to the taskbar and select the battery, network, or volume icon to open the notification center, then turn it on or off_ <br><br>
 
 #### Limit late-night notifications
