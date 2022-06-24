@@ -149,7 +149,8 @@ Achieving inclusion worldwide is a big and complex challenge. Same goes for Digi
  
 In October 2021, Microsoft launched Windows 11, the most recent major release of its Windows NT operating system. It's a free upgrade from Windows 10 (2015), and it's accessible for any Windows 10 device that meets the new Windows 11 system requirements. Windows 11 was redesigned for productivity, creativity and ease of use.
 
-Windows 11 includes a redesigned Start menu, the replacement of its "live tiles" with a separate "Widgets" panel on the taskbar, the ability to create tiled sets of windows that can be minimised and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Like its predecessor, Windows 10, Internet Explorer (IE) has been replaced as the default web browser by the Chromium-based Microsoft Edge, and Microsoft Teams has been incorporated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via Microsoft Store, and to support Android apps on Windows 11.
+Windows 11 includes a redesigned Start menu, the replacement of its "live tiles" with a separate "Widgets" panel on the taskbar, the ability to create tiled sets of windows that can be minimised and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Like its predecessor, Windows 10, Internet Explorer (IE) has been replaced as the default web browser by the Chromium-based Microsoft Edge, and Microsoft Teams has been incorporated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via Microsoft Store, and to support Android apps on Windows 11.<br>
+<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/windows11.png" width="400"/>
 <br><br><br>
 
 
@@ -182,14 +183,21 @@ Additionally, a variety of users can take advantage of Windows Voice Typing, whi
 
 _**"People with disabilities do not need to be fixed: they need to be accepted for who they are."**_
 <br><br>
-says _Jordan Christian_, Apraxia & Mental Health Advocate. Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
+says _Jordan Christian_, Apraxia & Mental Health Advocate.<br>
+<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/pwd.gif" width="400"/><br>
+
+Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
 <br><br><br>
 
 
 ## So many features, where can I find them all?
 <br>
 
-_Hide all these awesome features under a bushel? NO NO NO!!!_ Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
+_Hide all these awesome features under a bushel? NO NO NO!!!_ <br>
+
+<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/hide.gif" width="400"/><br>
+
+<br>Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
 <br><br><br><br><br><br><br>
 
  
@@ -497,7 +505,9 @@ Choose which icons appear on the taskbar and reduce the number of items in view.
 3. To select which icons can appear in the taskbar corner, select **Taskbar corner overflow**. Turn on the switches for the icons that you want to see in the taskbar corner. The icons with the switches turned off won't show directly on the taskbar—they'll only appear in the taskbar corner overflow menu.<br>
 
 
+
 Uploading taskbar.mp4…
+
 
 
 <br><br>
@@ -535,7 +545,9 @@ Uploading start.mp4…
 3. If you want to choose notifications from certain apps, select **Set priority notifications**. Modify these options to get the notifications you want to see when do not disturb is turned on.<br>
 
 
+
 Uploading noti.mp4…
+
 
  
 <br><br>
