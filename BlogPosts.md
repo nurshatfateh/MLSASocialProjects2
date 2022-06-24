@@ -176,25 +176,27 @@ On devices that meet the app system requirements, Windows 11 will also enable Li
 
 Not only is it free to get, it includes many improvements.
 
-Do you have sight problems? Fret not! New sound schemes are included to make work easier. Windows 11 contains various sounds for more accessible Light and Dark Themes including a delightful start-up. People (like me!) who work for extended periods of time and light sensitive have the option to switch between various beautiful color themes, including new Dark themes and reimagined High Contrast Themes. The new Contrast Themes include aesthetically pleasing, customizable color combinations that make apps and content easier to see. It seems Aurora has shifted its location to my system!
-Deaf and hard of hearing, language learners, and people in noisy or in quiet environments can enjoy redesigned Closed Caption themes that are easier to read and customize.
-Additionally, a variety of users can take advantage of Windows Voice Typing, which recognizes voice, transcribes it, and automatically punctuates text using cutting-edge artificial intelligence. Voice typing is beneficial for those who have severe rheumatoid arthritis, repetitive stress injuries, cerebral palsy, and other mobility-related problems, as well as language learners, those with learning differences, including those who have significant spelling difficulties.
-"People with disabilities do not need to be fixed: they need to be accepted for who they are." 
-Says Jordan Christian, Apraxia & Mental Health Advocate. Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
+_Do you have sight problems?_ Fret not! New sound schemes are included to make work easier. Windows 11 contains various sounds for more accessible Light and Dark Themes including a delightful start-up. People (like me!) who work for extended periods of time and light sensitive have the option to switch between various beautiful color themes, including new Dark themes and reimagined High Contrast Themes. The new Contrast Themes include aesthetically pleasing, customizable color combinations that make apps and content easier to see. It seems Aurora has shifted its location to my system!<br><br>
+_Deaf and hard of hearing_, language learners, and people in noisy or in quiet environments can enjoy redesigned Closed Caption themes that are easier to read and customize.<br><br>
+Additionally, a variety of users can take advantage of Windows Voice Typing, which recognizes voice, transcribes it, and automatically punctuates text using cutting-edge artificial intelligence. Voice typing is beneficial for those who have severe _rheumatoid arthritis, repetitive stress injuries, cerebral palsy, and other mobility-related problems_, as well as language learners, those with learning differences, including those who have significant spelling difficulties.<br><br>
+
+_**"People with disabilities do not need to be fixed: they need to be accepted for who they are."**_
+<br><br>
+says _Jordan Christian_, Apraxia & Mental Health Advocate. Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
 <br><br><br>
 
 
 ## So many features, where can I find them all?
 <br>
 
-Hide all these awesome features under a bushel? NO NO NO!!! Microsoft has considered feedback from all of its users about its previous "Ease of Access" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to Accessibility and introduced a new accessibility “human” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
+_Hide all these awesome features under a bushel? NO NO NO!!!_ Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
 <br><br><br><br><br><br><br>
 
  
  # 6. Unboxing Windows 11 - Part 2
  <br>
  
- In this blog we will experiment with all the Accessibility features available in Windows 11. Microsoft has categorized these features into four categories - Vision, Hearing, Mobility, Neurodiversity and Learning. Let's start exploring! Here we go!
+ In this blog we will experiment with all the Accessibility features available in Windows 11. Microsoft has categorized these features into four categories - _Vision, Hearing, Mobility, Neurodiversity and Learning_. Let's start exploring! Here we go!
 <br><br><br>
 
 ## 1. Vision
@@ -209,10 +211,12 @@ You may use the new Dark themes and Contrast themes in Windows 11 to lower scree
 <br>
 Here are some simple steps to get started with:
 <br><br>
-	1. Select the **Start** button, and then select **Settings** > **Accessibility** > **Contrast themes**.<br>
-	2. To turn on contrast themes, select the theme you want from the **Contrast themes** drop-down menu, and then select the **Apply** button. Windows may display a “Please wait” screen for a few seconds, after which the colors on the screen change.<br> 
-	3. To turn off contrast themes, select the None option from the Contrast themes drop-down menu, and then select the Apply button. Windows may again display a “Please wait” screen for a few seconds, after which the colors on the screen change back to default.<br><br>
-	_Tip: Press the left Alt key + left Shift key + Print screen (Print Scrn on some keyboards) to quickly turn high contrast mode on or off._
+
+1. Select the **Start** button, and then select **Settings** > **Accessibility** > **Contrast themes**.<br>
+2. To turn on contrast themes, select the theme you want from the **Contrast themes** drop-down menu, and then select the **Apply** button. Windows may display a “Please wait” screen for a few seconds, after which the colors on the screen change.<br> 
+3. To turn off contrast themes, select the None option from the Contrast themes drop-down menu, and then select the Apply button. Windows may again display a “Please wait” screen for a few seconds, after which the colors on the screen change back to default.<br><br>
+
+_Tip: Press the left Alt key + left Shift key + Print screen (Print Scrn on some keyboards) to quickly turn high contrast mode on or off._
 	
  <br><br>
 	
@@ -239,8 +243,10 @@ Here are some simple options that we can use:
 <br><br>
 
 
-• To **_adjust the size_** of text, apps, and other items, select the **Start** button, then select **Settings** > **Accessibility** > **Text size**. Use the slider next to Text size to make just the text on your screen larger. To scale up everything on your screen, select the Start button, then select **Settings** > **System** > **Display**, and change the **Scale** drop-down menu under **Scale & Layout** to a larger percentage.<br>
-• Make your mouse more visible by changing the color and size of the **_mouse pointer_**. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and choose the options that work best for you. By adding pointer trails you can see where the mouse is moving on the screen. Select the **Start** button, then select **Settings** > **Bluetooth & devices** > **Mouse** > **Additional mouse settings**. In the **Mouse Properties** window, select the **Pointer Options** tab, and then **Display pointer trails**. Windows can also show visual feedback when you touch the screen. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and then set **Touch indicator** to **On**.<br>
+• To **_adjust the size_** of text, apps, and other items, select the **Start** button, then select **Settings** > **Accessibility** > **Text size**. Use the slider next to Text size to make just the text on your screen larger. To scale up everything on your screen, select the Start button, then select **Settings** > **System** > **Display**, and change the **Scale** drop-down menu under **Scale & Layout** to a larger percentage.<br><br>
+
+• Make your mouse more visible by changing the color and size of the **_mouse pointer_**. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and choose the options that work best for you. By adding pointer trails you can see where the mouse is moving on the screen. Select the **Start** button, then select **Settings** > **Bluetooth & devices** > **Mouse** > **Additional mouse settings**. In the **Mouse Properties** window, select the **Pointer Options** tab, and then **Display pointer trails**. Windows can also show visual feedback when you touch the screen. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and then set **Touch indicator** to **On**.<br><br>
+
 • **_Magnifier_** enlarges part or all of your screen so you can see words and images better. To open Magnifier quickly, press the **Windows logo key + Plus sign (+)**. When Magnifier is open, use **Windows logo key + Plus sign (+)** or **Windows logo key + Minus sign (-)** to zoom in or out. To close Magnifier, press **Windows logo key + Esc**.<br><br>
  
 **Soure:** [Make Windows easier to see](https://support.microsoft.com/en-us/windows/make-windows-easier-to-see-c97c2b0d-cadb-93f0-5fd1-59ccfe19345d#PickTab=Windows_11)
