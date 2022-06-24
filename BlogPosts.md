@@ -459,5 +459,6 @@ If notifications are distracting when they appear on your screen, adjust which a
 	
 ## What are you waiting for? Get started with Windows 11
 <br>
+
 Visit [Get Windows 11 for Your Compatible PC](https://www.microsoft.com/en-us/windows/get-windows-11?r=1) and keep accessibility your first preference.
 <br><br><br><br><br><br><br>
