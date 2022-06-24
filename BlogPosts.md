@@ -144,7 +144,7 @@ Achieving inclusion worldwide is a big and complex challenge. Same goes for Digi
 
  <br><br><br><br><br><br><br>
  
- # 5. Unboxing Windows 11
+ # 5. Unboxing Windows 11 - Part 1
  <br>
  
 In October 2021, Microsoft launched Windows 11, the most recent major release of its Windows NT operating system. It's a free upgrade from Windows 10 (2015), and it's accessible for any Windows 10 device that meets the new Windows 11 system requirements. Windows 11 was redesigned for productivity, creativity and ease of use.
@@ -191,37 +191,267 @@ Hide all these awesome features under a bushel? NO NO NO!!! Microsoft has consid
 <br><br><br><br><br><br><br>
 
  
-
+ # 6. Unboxing Windows 11 - Part 2
+ <br>
  
+ In this blog we will experiment with all the Accessibility features available in Windows 11. Microsoft has categorized these features into four categories - Vision, Hearing, Mobility, Neurodiversity and Learning. Let's start exploring! Here we go!
+<br><br><br>
 
- 
+## 1. Vision
+<br>
 
- 
+With Windows 11, it's simple to customize your viewing experience or ignore the screen altogether thanks to the display and screen-reading features.
+<br>
 
- 
+### See every detail—without the strain
+<br>
+You may use the new Dark themes and Contrast themes in Windows 11 to lower screen brightness and boost contrast without sacrificing aesthetics, whether you are sensitive to light or you simply spend a lot of time in front of a screen.
+<br>
+Here are some simple steps to get started with:
+<br><br>
+	1. Select the **Start** button, and then select **Settings** > **Accessibility** > **Contrast themes**.<br>
+	2. To turn on contrast themes, select the theme you want from the **Contrast themes** drop-down menu, and then select the **Apply** button. Windows may display a “Please wait” screen for a few seconds, after which the colors on the screen change.<br> 
+	3. To turn off contrast themes, select the None option from the Contrast themes drop-down menu, and then select the Apply button. Windows may again display a “Please wait” screen for a few seconds, after which the colors on the screen change back to default.<br><br>
+	_Tip: Press the left Alt key + left Shift key + Print screen (Print Scrn on some keyboards) to quickly turn high contrast mode on or off._
+	
+ <br><br>
+	
+You can also create your own customized theme by following these steps:
+<br><br>
+1. After selecting a theme, select the **Edit** button under the **Contrast themes** drop-down menu. You can modify the color of the following screen elements:<br><br>
+	• **Text:** nearly all text you see in Windows or on a web page, for example.<br>
+	• **Hyperlinks:** all hyperlinks you see in Windows or on a web page, for example.<br>
+	• **Disabled Text:** text that would normally be grayed out, for example, when you cannot select a specific option or button.<br>
+	• **Selected Text:** any selected menu item or option. For example, the alignment of the currently selected paragraph in Word is indicated with this color on the tool ribbon.<br>
+	• **Button Text:** text on any buttons that contain text.<br>
+	• **Background:** the background of nearly all text you see in Windows or on a web page, for example.<br>
+2. Select a new color by clicking on the color picker palette, adjust the selected color’s brightness using the slider under the palette, and select **Done**.<br>
+3. To save any color changes you have made to the theme, select **Apply**.<br><br>
 
- 
+	**Source:** [Change color contrast in Windows](https://support.microsoft.com/en-us/windows/change-color-contrast-in-windows-fedc744c-90ac-69df-aed5-c8a90125e696#PickTab=Windows_11)
+	<br>
 
- 
+### Zoom in on what’s important
+<br>
+The display and vision settings make it simple to tailor your viewing experience, allowing you to change the font size, mouse cursor color and size, and more. Do you need to focus a little more? Like a digital magnifying glass, Magnifier can be used to enlarge words and images on a portion or the entire screen.
+<br>
+Here are some simple options that we can use:
+<br><br>
 
- 
 
+• To **_adjust the size_** of text, apps, and other items, select the **Start** button, then select **Settings** > **Accessibility** > **Text size**. Use the slider next to Text size to make just the text on your screen larger. To scale up everything on your screen, select the Start button, then select **Settings** > **System** > **Display**, and change the **Scale** drop-down menu under **Scale & Layout** to a larger percentage.<br>
+• Make your mouse more visible by changing the color and size of the **_mouse pointer_**. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and choose the options that work best for you. By adding pointer trails you can see where the mouse is moving on the screen. Select the **Start** button, then select **Settings** > **Bluetooth & devices** > **Mouse** > **Additional mouse settings**. In the **Mouse Properties** window, select the **Pointer Options** tab, and then **Display pointer trails**. Windows can also show visual feedback when you touch the screen. Select the **Start** button, then select **Settings** > **Accessibility** > **Mouse pointer & touch**, and then set **Touch indicator** to **On**.<br>
+• **_Magnifier_** enlarges part or all of your screen so you can see words and images better. To open Magnifier quickly, press the **Windows logo key + Plus sign (+)**. When Magnifier is open, use **Windows logo key + Plus sign (+)** or **Windows logo key + Minus sign (-)** to zoom in or out. To close Magnifier, press **Windows logo key + Esc**.<br><br>
  
+**Soure:** [Make Windows easier to see](https://support.microsoft.com/en-us/windows/make-windows-easier-to-see-c97c2b0d-cadb-93f0-5fd1-59ccfe19345d#PickTab=Windows_11)
+<br>
+ 
+### Distinguish colors easily
+<br>
+With the aid of color filters, you can alter the color palette on your computer to better suit your visual preferences or color blindness.
+<br>
 
- 
+To use a color filter:
+<br><br>
 
- 
+1. To go to the **Accessibility** settings on your computer, press the Windows logo key+U or select **Start**  > **Settings**  > **Accessibility**.<br>
+2. Select **Color filters**.<br>
+3. Turn the **Color filters**  switch on.<br>
+4. Select a color filter from the list. Try each filter to see which one suits you best.<br><br>
 
- 
+To turn on and turn off your color filters quickly, select the **Start** button, then select **Settings** > **Accessibility** > **Color filters**, and set **Keyboard shortcut for color filters** to **On**. Then press the **Windows logo key + Ctrl + C** to turn them on and off.
+<br><br>
 
+**Source:** [Use color filters in Windows](https://support.microsoft.com/en-us/windows/use-color-filters-in-windows-43893e44-b8b3-2e27-1a29-b0c15ef0e5ce#PickTab=Windows_11&WindowsVersion=Windows_11)
+<br>
  
+### Make your PC speak for itself
+<br>
 
- 
+You can simply interact with everything on your screen with your keyboard or preferred Braille device thanks to Narrator's streamlined navigation and voice descriptions. With no need for a screen, lay back and catch up on the news or start working on your email.
+<br><br>
+To start or stop Narrator, press the **Windows logo key + Ctrl + Enter**.
+<br><br>
+For advanced options refer [Complete guide to Narrator](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1#WindowsVersion=Windows_11&ID0EBD=Windows_11)
+<br><br><br>
 
- 
+## 2. Hearing
+<br>
+If you have trouble hearing your computer, Windows 11 provides settings and tools that can help, such as captioning and audio choices.
+<br>
 
- 
+### Read and enjoy
+<br>
 
- 
+You can use captions to read the spoken words in the videos you view, regardless of whether you're deaf, hard of hearing, learning a new language, or simply watching in a noisy area. Additionally, you may more easily personalise your experience with Windows 11's revamped caption themes by adjusting the text size, font, colour, and background.
+<br>
+To define how the captions appear in Windows and some Windows apps, you can select one of the predefined caption options or customize an option to better suit your needs.
+<br><br>
+1. Select **Start** > **Settings** > **Accessibility** > **Captions**.
+2. In **Caption style**, expand the menu, select one of the predefined options, and see how it appears in the preview.
+3. To customize the selected predefined option, select **Edit** and then modify the option details to your liking.
+<br><br>
 
+**Source:** [Change caption settings](https://support.microsoft.com/en-us/windows/change-caption-settings-135c465b-8cfd-3bac-9baf-4af74bc0069a)
+<br>
+	
+### Don’t miss a beat
+<br>
+
+Windows 11 can help you hear more from your computer if you have a partial hearing loss or are deaf in one ear. You can hear every detail thanks to mono audio, which mixes the left and right stereo audio channels frequently used in contemporary music creation.
+<br>
+
+#### Hear all sounds in one channel
+<br>
+
+Windows lets you convert stereo sound into a single channel so you can hear everything, even if you're using just one headphone. Select the **Start**  button, then select **Settings**  > **Accessibility** >** Audio**, and then switch on the **Mono audio** toggle.
+<br><br>
+
+#### Display audio alerts visually
+<br>
+
+If you have trouble hearing audio alerts, you can have your PC display them visually. Select the **Start** button, then select **Settings**  > **Accessibility** > **Audio**.
+<br>
+Under Flash my screen during audio notifications, choose how you want audio alerts displayed. You can choose to have the title bar of the active window, the active window, or the entire screen flash when a notification arrives, instead of relying on sound alone.
+<br><br>
+
+#### Make notifications stick around longer
+<br>
+
+By default, Windows notifications disappear five seconds after they appear. If you want more time to read them, you can increase how long they're displayed.
+<br>
+
+Select the **Start** button, then select **Settings**  > **Accessibility** > **Visual effects**. Then, under **Dismiss notifications after this amount of time**, choose the amount of time you want.
+<br><br>	
+	
+**Source:** [Make Windows easier to hear](https://support.microsoft.com/en-us/windows/make-windows-easier-to-hear-9c18cfdc-63be-2d47-0f4f-5b00facfd2e1)
+<br><br><br>
+
+## 3. Mobility
+<br>
+
+If you have physical limitations that make it difficult for you to use a keyboard or mouse, Windows 11 can help you use a pen, your voice, or even your eyes to connect with your computer.
+<br>
+	
+### Control Windows and apps with your eyes
+<br>
+
+With a range of eye tracking-enabled cameras and an intuitive launch pad that gives your eyes the power to control anything on the screen, Eye Operate makes it simple and effective to control Windows and apps (eye tracking hardware sold separately).<br><br>
+
+To set up your **eye tracking hardware** refer [Get started with eye control in Windows](https://support.microsoft.com/en-us/windows/get-started-with-eye-control-in-windows-1a170a20-1083-2452-8f42-17a7d4fe89a9#ID0EBD=Windows_11)
+<br>
+	
+### Type and navigate with your voice
+<br>
+
+Windows voice typing will translate your words to text whether you're writing a document, an email, or browsing the web. Thanks to AI, it will even take care of the punctuation!<br>
+	To turn on voice typing:
+ <br><br>
+	• Press **Windows logo key + H** on a hardware keyboard<br>
+	• Press the **microphone key** next to the Spacebar on the touch keyboard<br>
+	• Say a voice typing command like "Stop listening"<br>
+	• Press the microphone button on the voice typing menu<br><br>
  
+For more advanced options check [Use voice typing to talk instead of type on your PC](https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f#PickTab=Windows_11&WindowsVersion=Windows_11)
+	<br><br><br>
+ 
+## 4. Neurodiversity and learning
+<br>
+With tools that improve focus, attention, reading comprehension, and more, Windows 11 enables you to reach your full potential.
+<br>
+
+### Improve reading comprehension
+<br>
+By eliminating visual clutter, changing text spacing, or zooming in on a few lines of text at a time, Immersive Reader in Microsoft Edge can help you read more fluently, comprehend what you are reading, and stay focused.<br>
+Entering Reader Mode in Immersive Reader will simplify the page you're on by hiding distracting pop-ups and buttons, leaving you with just the important parts: textual and visual content. Once you enter Reader Mode, start using tools like **Read Aloud**, **Text preferences**, **Grammar tools** and **Reading preferences**.<br><br>
+ 
+To enter Reader Mode, use Microsoft Edge to visit a website you want to read. Select **Enter Immersive Reader** in the address bar or use the keyboard shortcut F9.<br>
+To exit Immersive reader, select Exit Immersive Reader in the address bar or use the keyboard shortcut **F9**. 
+<br><br>
+	
+For more information, visit [Use Immersive Reader in Microsoft Edge](https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1)
+<br>
+	
+### Get in the zone
+<br>
+
+Focus assistance disables alerts and messages so you may work uninterrupted. You can put folks to a specific list if you don't want to ignore them, so don't worry. You'll also receive a list of the information you missed once you've finished focused.
+<br>
+
+#### Don't be so animated
+<br>
+Minimize visual distractions by turning off animations, background images, and more.
+<br><br>
+
+1. Select **Start** > **Settings** > **Accessibility** > **Visual effects**.<br>
+2. To minimize distractions, do one or more of the following:<br>
+	• To automatically hide the scrollbars in Windows, turn off the **Always show scrollbars** switch.<br>
+	• To make some window backgrounds more opaque, turn off the **Transparency effects** switch.<br>
+	• If you don't want Windows to show animations, turn off the **Animation effects** switch.<br>
+	• To define how long notifications are shown, expand the **Dismiss notifications after this amount of time** menu and select the option you want.<br><br>
+ 
+#### Clean up taskbar clutter
+<br>
+
+Choose which icons appear on the taskbar and reduce the number of items in view.<br><br>
+
+1. Select **Start**  > **Settings**  > **Personalization** > **Taskbar**.<br>
+2. Select **Taskbar items** and **Taskbar corner icons** to expand those sections and turn off the switches for the items you don't want to see on the taskbar.<br>
+3. To select which icons can appear in the taskbar corner, select **Taskbar corner overflow**. Turn on the switches for the icons that you want to see in the taskbar corner. The icons with the switches turned off won't show directly on the taskbar—they'll only appear in the taskbar corner overflow menu.
+<br><br>
+
+#### Simplify the Start menu
+<br>
+
+You can select what to show in the Start menu—keeping distractions at a minimum and finding what you need quickly.
+<br><br>
+
+1. Select **Start**  > **Settings**   > **Personalization** > **Start**.<br>
+2. To simplify the Start menu, do one or more of the following:<br>
+	• To show or hide recently added apps, toggle the **Show recently added apps** switch on or off.<br>
+	• To show or hide the apps you use the most, toggle the **Show most used apps** switch on or off.<br>
+	• To show or hide your recently opened items, toggle the **Show recently opened items in Start**, **Jump Lists**, and **File Explorer** switch on or off.<br>
+	• To select which folders are shown or hidden in the Start menu next to the power button, select **Folders**, and turn on the switches for the folders you want to see. Turn the switches off for the folders you want to hide.
+ <br><br>
+
+#### Quiet down those notifications
+<br>
+
+**Do not disturb** allows you to define which notifications you see and hear and when. The rest of the notifications will go to the notification center where you can see them any time. You can also modify the notifications settings to choose which apps display notifications.
+<br><br> 
+
+#### Choose the notifications you want to see and hear 
+<br>
+
+1. Select **Start**  > **Settings**  > **System** > **Notifications**, then adjust the settings.<br>
+2. To see and hear fewer notifications, turn on **Do not disturb**.<br>
+3. If you want to choose notifications from certain apps, select **Set priority notifications**. Modify these options to get the notifications you want to see when do not disturb is turned on.<br><br>
+_Tip: To quickly switch Do not disturb on, go to the taskbar and select the battery, network, or volume icon to open the notification center, then turn it on or off_ <br><br>
+
+#### Limit late-night notifications
+<br>
+
+1. Select **Start**  > **Settings**  > **System** > **Notifications**.<br>
+2. In **Turn on do not disturb automatically**, select **During these times** to turn it on.<br>
+3. Choose when do not disturb turns on, turns off, and how often it repeats.<br>
+4. You can also choose the types of tasks that will turn on do not disturb automatically.
+<br><br>
+ 
+#### Choose which apps display notifications
+<br>
+
+If notifications are distracting when they appear on your screen, adjust which apps display notifications and fine-tune how they appear.
+<br><br>
+
+1. Select **Start**  > **Settings**  > **System** > **Notifications**.<br>
+2. In **Notifications from apps and other senders**, turn off the apps you don't want notifications from and turn on the apps you do want to get notifications from.<br>
+3. To define where the notifications appear for each app, select a specific app, then change the options as desired.
+<br><br>	
+	
+**Source:** [Make it easier to focus on tasks](https://support.microsoft.com/en-us/windows/make-it-easier-to-focus-on-tasks-0d259fd9-e9d0-702c-c027-007f0e78eaf2#ID0EBD=Windows_11&WindowsVersion=Windows_11)
+<br><br><br>
+	
+## What are you waiting for? Get started with Windows 11
+<br>
+Visit [Get Windows 11 for Your Compatible PC](https://www.microsoft.com/en-us/windows/get-windows-11?r=1) and keep accessibility your first preference.
+<br><br><br><br><br><br><br>
