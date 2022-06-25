@@ -506,9 +506,6 @@ Choose which icons appear on the taskbar and reduce the number of items in view.
 
 
 
-Uploading taskbar.mp4…
-
-
 
 <br><br>
 
@@ -526,7 +523,6 @@ You can select what to show in the Start menu—keeping distractions at a minimu
 	• To select which folders are shown or hidden in the Start menu next to the power button, select **Folders**, and turn on the switches for the folders you want to see. Turn the switches off for the folders you want to hide.<br>
 	
 
-Uploading start.mp4…
 
 	
  <br><br>
@@ -546,7 +542,6 @@ Uploading start.mp4…
 
 
 
-Uploading noti.mp4…
 
 
  
