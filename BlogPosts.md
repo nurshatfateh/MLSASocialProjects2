@@ -505,6 +505,7 @@ Choose which icons appear on the taskbar and reduce the number of items in view.
 3. To select which icons can appear in the taskbar corner, select **Taskbar corner overflow**. Turn on the switches for the icons that you want to see in the taskbar corner. The icons with the switches turned off won't show directly on the taskbar—they'll only appear in the taskbar corner overflow menu.<br>
 
 
+https://user-images.githubusercontent.com/64459672/175774566-69123d0e-3c7c-49a7-baaa-0181614fe155.mp4
 
 
 <br><br>
@@ -524,6 +525,10 @@ You can select what to show in the Start menu—keeping distractions at a minimu
 	
 
 
+
+https://user-images.githubusercontent.com/64459672/175774587-a668d5ce-bb78-4048-bd8b-4aba5ef835f4.mp4
+
+
 	
  <br><br>
 
@@ -541,7 +546,7 @@ You can select what to show in the Start menu—keeping distractions at a minimu
 3. If you want to choose notifications from certain apps, select **Set priority notifications**. Modify these options to get the notifications you want to see when do not disturb is turned on.<br>
 
 
-
+https://user-images.githubusercontent.com/64459672/175774594-1c476e12-3bb7-47ff-b693-318f13cc8d83.mp4
 
 
  
