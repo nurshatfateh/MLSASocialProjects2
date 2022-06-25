@@ -1,6 +1,6 @@
 # 1. Digital Accessibility 
 <br>
-<img src="1.jpg" width="400"/><br>
+<img src="res/1.jpg" width="400"/><br>
 Digital Accessibility is all about making sure that all users can get full access to digital content regardless of their impairments. The current era is called the era of digital media. More and more people are relying on digital services for work, entertainment etc. Literally everything we do in our life is somehow related to digital services these days. Today, a lot of digital interfaces are created with a focus heavily on the visual impact they are having but digital accessibility is mostly overlooked. This ignorance leads to a huge portion of the people getting deprived of accessing digital contents. It means people with disabilities can't do even basic things such as attending online classes, socializing with friends online, using government services and so on. It is totally unexpected as so many people rely on digital services these days for even basic day to day activities. Thus, digital accessibility is crucial for creating an inclusive world for everyone. 
 <br><br><br>
 
@@ -8,7 +8,7 @@ Digital Accessibility is all about making sure that all users can get full acces
 
 ## What is Digital Accessibility? 
 <br>
-<img src="3.jpg" width="400"/><br>
+<img src="res/3.jpg" width="400"/><br>
 Accessibility is ensuring that devices, products and environments are convenient for all users despite any impairments they might have. The concept of digital accessibility is pretty much similar. Digital accessibility allows everyone to have full access to digital content despite their impairments. It refers to how usable a website, app or digital service is to all sort of users including disabled people. For example, a website must be navigable using keyboard for users who might not be able to operate a mouse. If a website has only one way of navigation, then it might be inaccessible for a significant portion of people. Thus, it is important to ensure multiple ways of navigation. 
 <br><br><br>
 
@@ -16,7 +16,7 @@ Accessibility is ensuring that devices, products and environments are convenient
 
 ## Principles of Digital Accessibility 
 <br>
-<img src="4.jpg" width="400"/><br>
+<img src="res/4.jpg" width="400"/><br>
 There are four principles of web accessibility by the WCAG (Web Content Accessibility Guidelines). These are: 
 
 1. Perceivable: Users must be able to perceive the information being presented.  
@@ -34,7 +34,7 @@ The lack of any one of these principles will make the web less accessible.
 
 ## Examples of Digital Accessibility 
 <br>
-<img src="5.jpg" width="400"/><br>
+<img src="res/5.jpg" width="400"/><br>
 Some common digital accessibility features are: 
 <br>
 <br>
@@ -56,7 +56,7 @@ Some common digital accessibility features are:
 
 ## Why Ensure Digital Accessibility? 
 <br>
-<img src="2.jpg" width="400"/><br>
+<img src="res/2.jpg" width="400"/><br>
 
 The question shouldn’t be why ensure digital accessibility. The question should be why not ensure digital accessibility starting from right now? Nearly 20% of the people living with a disability. Not everyone can easily access all the digital services. As our world has digitalized dramatically in the last few decades, it has become more important than ever before to focus on digital accessibility right now. Ensuring digital accessibility means ensuring equal access to online education, health care, e-commerce, employment and so on. It is our moral obligation to ensure digital accessibility. 
 
@@ -69,7 +69,7 @@ Ensuring digital accessibility proves that a company is professional and cares a
 
 ## Conclusion 
 <br>
-<img src="6.jpg" width="400"/><br>
+<img src="res/6.jpg" width="400"/><br>
 The most important thing to realize is digital accessibility is not an optional thing anymore. As the world has digitalized dramatically, the need for ensuring digital accessibility has skyrocketed. It has become a fundamental right for all kinds of people to get equal opportunity to access digital services. There are several worldwide regulations, guidelines and standards that protect the rights of disabled people. Thus, ensuring digital accessibility is not just a moral obligation but also a responsibility too.  
 
 
@@ -82,12 +82,12 @@ The most important thing to realize is digital accessibility is not an optional 
 <br><br><br><br><br><br><br>
 # 2. Current Challenges of Digital Accessibility & Possible Solutions 
 <br>
-<img src="11.jpg" width="400"/><br>
+<img src="res/11.jpg" width="400"/><br>
 The capabilities of digital devices and services are increasing rapidly day by day. But sadly, it is not the same when it comes to digital accessibility. There are many challenges of ensuring digital accessibility. In this article, we will be discussing few of these challenges and possible solutions to overcome these challenges. <br><br><br> 
 
 ## Challenges of Digital Accessibility 
 <br>
-<img src="22.png" width="400"/><br>
+<img src="res/22.png" width="400"/><br>
 
 ### Lack of awareness 
 
@@ -113,7 +113,7 @@ Though there are guidelines like ‘Web Content Accessibility Guidelines’ (WCA
 
 ## Possible Solutions 
 <br>
-<img src="44.jpg" width="400"/><br>
+<img src="res/44.jpg" width="400"/><br>
 
 ### Raising awareness 
 
@@ -137,7 +137,7 @@ Only abiding by the regulations is not good enough. Digital accessibility featur
 <br><br>
  
 <br>
-<img src="55.jpg" width="400"/><br>
+<img src="res/55.jpg" width="400"/><br>
  
 
 Achieving inclusion worldwide is a big and complex challenge. Same goes for Digital Inclusion too. But proper guidelines, awareness and skill development surely help to overcome all the obstacles of ensuring digital accessibility.   
@@ -150,7 +150,7 @@ Achieving inclusion worldwide is a big and complex challenge. Same goes for Digi
 In October 2021, Microsoft launched Windows 11, the most recent major release of its Windows NT operating system. It's a free upgrade from Windows 10 (2015), and it's accessible for any Windows 10 device that meets the new Windows 11 system requirements. Windows 11 was redesigned for productivity, creativity and ease of use.
 
 Windows 11 includes a redesigned Start menu, the replacement of its "live tiles" with a separate "Widgets" panel on the taskbar, the ability to create tiled sets of windows that can be minimised and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Like its predecessor, Windows 10, Internet Explorer (IE) has been replaced as the default web browser by the Chromium-based Microsoft Edge, and Microsoft Teams has been incorporated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via Microsoft Store, and to support Android apps on Windows 11.<br>
-<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/windows11.png" width="400"/>
+<img src="res/https://github.com/sheki018/MLSASocialProjects2/blob/main/res/windows11.png" width="400"/>
 <br><br><br>
 
 
@@ -184,7 +184,7 @@ Additionally, a variety of users can take advantage of Windows Voice Typing, whi
 _**"People with disabilities do not need to be fixed: they need to be accepted for who they are."**_
 <br><br>
 says _Jordan Christian_, Apraxia & Mental Health Advocate.<br>
-<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/pwd.gif" width="400"/><br>
+<img src="res/https://github.com/sheki018/MLSASocialProjects2/blob/main/res/pwd.gif" width="400"/><br>
 
 Microsoft have accepted everyone for who they are and ultimately, the simplified design and user experience of Windows 11 allows everyone to enjoy. It is modern, fresh, clean and beautiful.
 <br><br><br>
@@ -195,7 +195,7 @@ Microsoft have accepted everyone for who they are and ultimately, the simplified
 
 _Hide all these awesome features under a bushel? NO NO NO!!!_ <br>
 
-<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/hide.gif" width="400"/><br>
+<img src="res/https://github.com/sheki018/MLSASocialProjects2/blob/main/res/hide.gif" width="400"/><br>
 
 <br>Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
 <br><br><br><br><br><br><br>
