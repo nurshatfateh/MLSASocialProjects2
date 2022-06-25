@@ -197,7 +197,10 @@ _Hide all these awesome features under a bushel? NO NO NO!!!_ <br>
 
 <img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/hide.gif" width="400"/><br>
 
-<br>Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.
+<br>Microsoft has considered feedback from all of its users about its previous "**Ease of Access**" settings that its purpose and icon was unclear. So, they have rebranded Ease of Access Settings to **Accessibility** and introduced a new accessibility “**human**” icon. This redesign was to make them easier to use. And the best part is that, Accessibility features are available in the out of box experience and on the Log on and Lock screens so that users can independently setup and use their devices, e.g., with Narrator.<br>
+
+<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/accesslock.jpg" width="400"/><br>
+
 <br><br><br><br><br><br><br>
 
  
