@@ -144,6 +144,40 @@ Achieving inclusion worldwide is a big and complex challenge. Same goes for Digi
 
  <br><br><br><br><br><br><br>
  
+# 3. Role of Microsoft in Digital Accessibility 
+ <br>
+If we talk about role, we talk about contribution. Let's review and see what Microsoft already contribute to the existing community of accesibility inside and outside of Microsoft
+
+<br>
+
+## Inclusive Hiring and Employment
+Microsoft's missions is to empower every person and every organization on the planet to achieve more. One of the ways we fulfill this ambition is through an unwavering commitment to a diverse workforce and an inclusive culture. Dona Sarkar led a bustling community of 17 million pre-release Windows customers around the world, now head of advocacy for Microsoft’s Power Platform was diagnosed for Dyslexia five years ago. But that's not stopping Sarkar to do more. One day she watched a Microsoft video featuring a boy with dyslexia who dramatically improved his reading with Microsoft Learning Tools. He used Immersive Reader, a feature in OneNote that expands the space between letters and reads text aloud. Intrigued, Sarkar checked out the feature and now uses it frequently to make sure she’s reading and writing accurately. 
+
+![Dona Sarkar working](https://news.microsoft.com/wp-content/uploads/prod/2019/09/Dona2_1600.jpg)
+
+Another story is about Philip Jarvis, HoloLens Engineer who was diagnosed with [Asperger's syndrome](https://www.nationwidechildrens.org/conditions/aspergers-syndrome). Jarvis never thought that he’d get to work on HoloLens Team. When Jarvis graduated, he applied to many companies, but he was rejected due to communication problems. That’s when Jarvis heard about Microsoft’s program to recruit and hire people with autism, which helps give job candidates an opportunity to show their unique talents in a nontraditional interview setting. He didn’t worry too much about his technical skills. But Jarvis, who has Asperger’s syndrome, did have anxiety about the social aspect of work. Would he find ways to reach out and have good communication? How would an open-concept, collaborative work environment support the social anxiety that he faces?
+It turns out that his team has been welcoming and helpful, Jarvis said. He gets the solo time he needs to concentrate on solving problems, but he also takes opportunities to connect with his teammates when he hits a snag so that he doesn’t stay blocked for long.Like other new hires in the program, Jarvis was matched with a community mentor who helped him settle into life at Microsoft. Microsoft has worked to create an onboarding model for employers that hire people who have autism. New employees are introduced to their own support circle, which includes a community mentor, the new employee’s manager, a team mentor, and an external job coach.
+Jarvis said that his friendship with his community mentor—Tobias Brick, who has two sons with autism—has supported his social well-being and has eased some of his anxiety, which stemmed in part from his move to the Seattle area two years ago from Indiana. While Jarvis is thrilled to be on the inside of HoloLens, he makes it a point to remember his perspective on Microsoft products from before he became a Microsoft employee.
+
+![ Employee Phillip Jarvis using his hands to make a "bloom" gesture while wearing a HoloLens.
+Philip Jarvis performs one half of the Bloom gesture that Microsoft HoloLens users make to dismiss one activity and bring up new content.
+](https://news.microsoft.com/wp-content/uploads/prod/sites/388/2018/04/Phillip-2-Bloomm.jpg)
+<br> <br>
+
+## International Conference
+This year (2022), Microsoft held its 12th annual Ability Summit. As part of the 12th annual Microsoft Ability Summit, Microsoft celebrates a new and expanded Inclusive Tech Lab, powerful new software features, and are unveiling Microsoft adaptive accessories designed to give people with disabilities greater access to technology. Inclusive Tech Lab was created as an embassy for people with disabilities. It was designed to demonstrate what is possible when you intentionally and proactively include people with disabilities in the product-making process to demonstrate what's possible in this tech lab. The main goal of this lab is ceated as an embassy for people with disabilities, the Inclusive Tech Lab is a design incubator where Microsoft and disability communities can ideate and evaluate product design and direction.
+
+Other than Inclusive Tech Lab, Microsoft also reveal their inclusivty in Gaming, especially in XBox. The Accessibility Feature Tags were developed specifically to make it easier for players to find games that have one or more of 20 accessibility features. The 20 accessibility features include Custom Volume Controls, No Quick Time Events or Subtitle Options were developed specifically to make it easier for players to find games.
+Microsoft also include The new Gaming Developer Accessibility Resource Hub in their Docs to provide a single place for developers to start their accessibility journey.
+![Acessibility Feature Tags](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Accessibility-Feature-Tags-3-800x533.png)
+
+Not only Gaming landscape, Microsoft also contribute to Browser world. In the previous section, we mentioned Dona Sarkar's journey with Dyslexi. In the Microsoft Edge, the text prediction feature in Editor in Microsoft Edge helps improve everyone’s writing skills, whether you’re dyslexic or dysgraphic, writing in a second language, or correcting basic grammar or spelling errors.
+![Edge's Predictive Text](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Text-Prediction-in-Editor-Image-800x533.png)
+Immersive Reader in Microsoft Edge easily removes distractions from the web, so you can focus on the task of reading. It’s especially helpful for people with ADHD, color blindness or those who find some websites overwhelming.
+![Edge's Immersive Reader](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Immersive-Reader-Image-800x533.png)
+
+ <br><br><br><br><br><br><br>
+ 
  # 5. Unboxing Windows 11 - Part 1
  <br>
  
