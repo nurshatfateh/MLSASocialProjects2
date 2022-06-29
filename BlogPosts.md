@@ -752,3 +752,39 @@ If notifications are distracting when they appear on your screen, adjust which a
 
 Visit [Get Windows 11 for Your Compatible PC](https://www.microsoft.com/en-us/windows/get-windows-11?r=1) and keep accessibility your first preference.
 <br><br><br><br><br><br><br>
+
+# Summary
+<br>
+Take a deep breath! All is well!!
+
+![image](https://user-images.githubusercontent.com/64459672/176519314-5ede8ce0-10d3-4fbe-b15c-709ff69742ff.png)
+
+
+This last blog will wrap all this marvelous information in a beautiful box for you to keep track of all that you explored in this journey.
+
+
+**_"The impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world."_**
+
+― [W3C Standards for Web Design and Applications: Accessibility](https://w3.org/standards/webdesign/accessibility).
+
+
+The [World Health Organization](https://who.int/topics/disabilities) defines disability as "a mismatch in interaction between the features of a person's body and the features of the environment in which they live". Disabilities range from situational disabilities, like limited mobility while holding a baby or bright sunlight on a phone, to other physical, auditory, visual, or age-related impairments. Nearly 20% of the people living with a disability. Not everyone can easily access all the digital services.
+
+Designing websites and other technologies for inclusion creates an experience enjoyable by every person. Inclusive design and web accessibility empowers and assists everyone to use the web.
+
+Challenges are inevitable in our lives. While digital accessibilty seems appealing, it comes with it's own problems. Lack of awareness, lack of willpower & motivation, compliance culture, lack of skills and resources and lack of governance are some major challenges. By raising awareness, focusing on UX design, developing skill, improving governance and progressing from compliance to real accessibility we can overcome the above mentioned challenges.
+
+Microsoft is fulfilling it's missions through an unwavering commitment to a diverse workforce and an inclusive culture. Microsoft spreads awareness and launches new features during their International Conferences and Summits.
+
+Microsoft's products like Windows 11, Microsoft 365, Microsoft Teams, Edge, Skype, Xbox and Sway focus on areaes like vision, hearing, neurodiversity, learning, mobility and mental health.
+
+Windows 11 is the most accessible Windows till now. There are many accessible features to enhace vision, help proper hearing, bring focus while learning and provide options for mobility. It is modern, fresh, clean and beautiful. All these features can be easily accessed from the Accessibilty option available in your Settings.
+
+
+Thus, there is no need to force any group of people to use what others are comfortable with. Welcome everyone as the are and create a loving world!
+
+_**“Who said we want to conform to the norm?  Celebrate & embrace our differences.”**_ 
+
+― Neil Milliken
+
+<img src="https://github.com/sheki018/MLSASocialProjects2/blob/main/res/pwd.gif" width="400"/><br>
