@@ -169,14 +169,148 @@ This year (2022), Microsoft held its 12th annual Ability Summit. As part of the 
 
 Other than Inclusive Tech Lab, Microsoft also reveal their inclusivty in Gaming, especially in XBox. The Accessibility Feature Tags were developed specifically to make it easier for players to find games that have one or more of 20 accessibility features. The 20 accessibility features include Custom Volume Controls, No Quick Time Events or Subtitle Options were developed specifically to make it easier for players to find games.
 Microsoft also include The new Gaming Developer Accessibility Resource Hub in their Docs to provide a single place for developers to start their accessibility journey.
+<br><br>
 ![Acessibility Feature Tags](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Accessibility-Feature-Tags-3-800x533.png)
-
-Not only Gaming landscape, Microsoft also contribute to Browser world. In the previous section, we mentioned Dona Sarkar's journey with Dyslexi. In the Microsoft Edge, the text prediction feature in Editor in Microsoft Edge helps improve everyone’s writing skills, whether you’re dyslexic or dysgraphic, writing in a second language, or correcting basic grammar or spelling errors.
+<br>
+Not only Gaming landscape, Microsoft also contribute to Browser world. In the previous section, we mentioned Dona Sarkar's journey with Dyslexi. In the Microsoft Edge, the text prediction feature in Editor in Microsoft Edge helps improve everyone’s writing skills, whether you’re dyslexic or dysgraphic, writing in a second language, or correcting basic grammar or spelling errors.<br><br>
 ![Edge's Predictive Text](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Text-Prediction-in-Editor-Image-800x533.png)
-Immersive Reader in Microsoft Edge easily removes distractions from the web, so you can focus on the task of reading. It’s especially helpful for people with ADHD, color blindness or those who find some websites overwhelming.
+<br>
+Immersive Reader in Microsoft Edge easily removes distractions from the web, so you can focus on the task of reading. It’s especially helpful for people with ADHD, color blindness or those who find some websites overwhelming.<br><br>
 ![Edge's Immersive Reader](https://news.microsoft.com/wp-content/uploads/prod/sites/635/2022/05/Immersive-Reader-Image-800x533.png)
 
  <br><br><br><br><br><br><br>
+ 
+  # 4. Accessible Products from Microsoft
+ <br>
+ 
+ _**There are no limits to what people can achieve when technology reflects the diversity of everyone.**_
+ <br><br>
+ This ambition builds on Microsoft's broad and lengthy work to empower people with disabilities. From Sticky Keys, a simple way to create shortcuts in Windows created in early 1990s, to Seeing Ai and Xbox Adaptive Controller, digital accessibility is now a part of Microsoft's engineering DNA. Microsoft's main focus is on areaes like vision, hearing, neurodiversity, learning, mobility and mental health. Some of the famous accessible products are Windows 11, Microsoft 365, Microsoft Teams, Edge, Skype, Xbox and Sway.<br> 
+ 
+ ![image](https://user-images.githubusercontent.com/64459672/176505996-447559d9-75c8-4ada-9af2-de4c5b94a2b0.png)
+ <br><br>
+## Windows 11
+<br>
+Windows 11 was inclusively designed to support productivity, creativity, and ease of use for people with disabilities. With a robust set of built-in and third-party accessibility features, Windows adapts to you. The new Accessibility pane and human icon in Windows 11 settings were designed to make it easier to find and use all the built-in accessibility features Windows offers to tailor your device to your unique needs. We will expolore every accessibility feature in Windows 11 later in this series!
+<br>
+
+![image](https://user-images.githubusercontent.com/64459672/176508172-71eb22cb-525a-4d13-b24f-d0f37d91dce0.png)
+<br><br>
+
+## Microsoft 365
+<br>
+Microsoft 365 provides accessible apps and cloud services to help people and organizations create, communicate, and collaborate from any device. Office 365 applications work seamlessly with screen readers and keyboards on most devices. Step-by-step guidance is available per application to help you get started. Tell Me lets you quickly access commands in several Office apps without navigating the command ribbon. You can use Tell Me to assist with formatting, discover the difficult-to-find capabilities and even get scoped help in the Office apps using everyday language. A MailTip in Outlook on the web informs coworkers of your preference for accessible content. This prompt reminds them to run Accessibility Checker before sending an email to you and fix any issues that might make the content difficult for people with disabilities to consume. Office Lens helps you transform text on a printed page into digital content that can be read aloud. To empower you to get an image of exactly what you're trying to capture, Office Lens on iOS can tell you to move back, to the right, or in other directions to get the full page in the frame.
+<br><br>
+Microsoft 365 apps seamlessly integrate with assistive technologies and accessibility settings on most devices. Additionally, some applications offer built-in Ease of Access settings and Learning Tools to enhance reading and writing experiences for people of all abilities. Accessibility Checkers, Accessible Templates, Autogenerated Alt-Text for images and Captions for audio are available in the Microsoft 365 apps to make it easier for everyone to make their emails, documents, presentations, and meetings more inclusive. Microsoft 365 apps are designed with the requirements of EN 301 549, WCAG 2.0 AA and US Section 508 in mind. External suppliers under the U.S. Department of Homeland Services Trusted Tester Program help verify conformance to accessibility standards.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176509880-99961cba-df13-49ea-8e28-b2ce9ef88ff7.png)
+
+<br><br>
+
+Try [Microsoft365](https://www.microsoft.com/en-ww/microsoft-365/buy/compare-all-microsoft-365-products?rtc=1) now!
+
+<br><br>
+
+## Microsoft Teams
+<br>
+Microsoft Teams is a messaging and collaboration app that lets everyone in your organization join the conversation and work together. 
+<br><br>
+Access meetings and participate from anywhere with Microsoft Teams desktop and mobile apps and Microsoft Teams on the web. Some of the accessibility features here are live closed captioning for meetings, CART captions, blur background or use a background image, pin a meeting participant's video, dedicated chats for each meeting, raise your hand in a Teams meeting, reduce background noise in Teams meetings and add someone like a coworker or interpreter, to a call.
+<br><br>
+You can communicate effectively with everyone regardless of language, cognitive needs, or visual capabilities by limiting distractions with Do Not Disturb mode, minimizing communication barriers with language translation. customizing the reading and viewing experience for different visual and cognitive needs and sending audio messages on Microsoft Teams mobile and use Windows dictation on Microsoft Teams desktop.
+<br><br>
+Enable collaboration for everyone by adapting to different learning paces, motor skills, and communication preferences by having documents read aloud and broken down by syllables with Immersive Reader, ensuring Microsoft Office content is easy for all people to read and edit and pin chats, channels, apps, and documents.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176511642-b62db62c-4f1d-49f5-9e09-f702ca1d117a.png)
+
+<br><br>
+
+Download [Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app) for all your devices!
+
+<br><br>
+
+## Edge
+<br>
+Development of your webpages, web apps, and web-enabled products is robustly supported through the extensive Accessibility features in Microsoft Edge and its tooling ecosystem. Designing websites and other technologies for inclusion creates an experience enjoyable by every person. Inclusive design and web accessibility empowers and assists everyone to use the web. Microsoft Edge DevTools is built into the Microsoft Edge browser, and includes many accessibility-testing features, to test aspects of webpages including:
+
+- Alt-text for images, and screen reader support.
+- Keyboard support.
+- Text contrast.
+- Usability with vision deficiencies.
+- Usability when the browser is narrow.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176512290-cdc9c91d-f644-40a9-8e28-fe1770cb0f37.png)
+
+<br><br>
+
+Try using [Edge](https://www.microsoft.com/en-us/edge?form=MI13F4&OCID=MI13F4&r=1) everyday!
+
+<br><br>
+
+## Skype
+<br>
+Assistive features help people with disabilities navigate and control their device as well as get better access to online content. The following is a list of accessibility features available for Skype in Windows 8 and above devices:
+
+- Narrator screen reader enables blind people to use their computer or other device as its purpose is to read text on the screen aloud. Skype for Windows desktop and - - Skype for Windows 8 (and above) may also work well with third-party screen readers such as NVDA (free download) and JAWS.
+- High-contrast settings benefit low vision users and users with little or no color perception as it makes text easier to read.
+- Magnifier is a feature intended for low vision users as it enlarges the screen and makes text easier to read and images easier to see.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176513173-42524bfd-2199-432a-9f8e-ffd85f0aa3ac.png)
+
+<br><br>
+
+Try calling your friends usinf [Skype](https://www.skype.com/en/get-skype/)!
+
+<br><br>
+
+## Xbox
+<br>
+Nothing should come between you and the games you love. Xbox strives to eliminate barriers and to empower gamers to play the way they play. The Xbox Adaptive Controller connects to external switches, buttons, mounts and joysticks to help make gaming more accessible. Discover games with accessibility features using tags. Copilot links two controllers so you can use them as if they were one controller. Once linked, both controllers have full control, and you can use either controller however you like. Use the Xbox Accessories app to configure the button layout on your Xbox Wireless Controller. Use wired USB mice and keyboards for navigation in select games and apps, and—with a keyboard—getting around on Xbox. Quickly and easily toggle accessibility features, without leaving your game or app, making it easier to share your console with others!
+
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176513698-e7dca551-9806-4a7a-9598-55b5859f4ad2.png)
+
+<br><br>
+
+It's play time! [Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) here I come!
+
+<br><br>
+
+## Sway
+<br>
+With Sway, you can create interactive reports, presentations, personal stories, and more. You provide the content, such as text, images, videos, and embedded items, and Sway does the rest, making sure that your finished layout looks beautiful on virtually any device. When viewing a Sway, you can turn on Accessibility view. This view displays a high-contrast style for easier reading, disables any animations, and supports keyboard navigation for use with screen readers. When you turn on Accessibility view in Sway, here’s what happens:
+
+- The entire Sway is loaded into memory to allow Assistive Technology to access all of the content and provide jump locations (for example, a jump to the next heading).
+
+- The color scheme changes to black and white to provide high contrast for text.
+
+- The navigation switches to vertical scrolling to make it easier to navigate the Sway with a keyboard or with Assistive Technology.
+
+- The layout is presented vertically to allow users to focus on one piece of content at a time.
+
+- Specialized groups (for example, grids, slide shows, stacks, or comparisons) are broken apart to provide easier access to the content.
+
+- Interactive elements are marked with focus indicators to allow keyboard-only users to know what has the focus.
+
+- Excessive animations are removed to reduce unnecessary distractions and to aid Assistive Technology.
+<br><br>
+
+![image](https://user-images.githubusercontent.com/64459672/176515322-fc89233b-c1e0-47fd-9c24-23ad69e65c60.png)
+
+
+<br><br>
+
+Don't forget to check [Sway](https://sway.office.com/my)!
+<br><br>
+
+Okay! This is just the tip of the iceberg! Let's start exploring what Windows 11, the most accessible Windows has for us! 
+
+<br><br><br><br><br><br><br>
  
  # 5. Unboxing Windows 11 - Part 1
  <br>
