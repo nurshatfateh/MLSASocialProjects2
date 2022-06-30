@@ -12,7 +12,11 @@ The main challenge regarding digital accessibility is the lack of awareness and 
 
 ### 3. Role of Microsoft in Digital Accessibility 
 
+If we talk about role, we talk about contribution. Let's review and see what Microsoft already contribute to the existing community of accesibility inside and outside of Microsoft. Microsoft's missions is to empower every person and every organization on the planet to achieve more. One of the ways we fulfill this ambition is through an unwavering commitment to a diverse workforce and an inclusive culture. Microsoft spreads awareness and launches new features during their International Conferences and Summits.
+
 ### 4. Microsoft Products for accessibility 
+
+This ambition builds on Microsoft's broad and lengthy work to empower people with disabilities. From Sticky Keys, a simple way to create shortcuts in Windows created in early 1990s, to Seeing Ai and Xbox Adaptive Controller, digital accessibility is now a part of Microsoft's engineering DNA. Microsoft's main focus is on areaes like vision, hearing, neurodiversity, learning, mobility and mental health. Some of the famous accessible products are Windows 11, Microsoft 365, Microsoft Teams, Edge, Skype, Xbox and Sway.
 
 ### 5. Unboxing Windows 11
 
